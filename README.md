@@ -5,7 +5,7 @@ An end-to-end machine learning pipeline that predicts employee attrition using t
 **Final project for Data Analytics with R** (Prof. Rubén Coca, ESADE MIBA 2026)
 **Group 13:** Brice Da Costa · Baran Erdogan · Mats Hoffmann · María Mora · Hiroaki Nakano
 
-🔗 **Live dashboard:** [URL will be added after deployment]
+🔗 **Live dashboard:** https://hr-attrition-group13.shinyapps.io/hr-attrition/  
 
 ---
 
