@@ -1,0 +1,11 @@
+"model","name","value"
+"Logistic","none",NA
+"Decision_Tree","cost_complexity",1e-04
+"Decision_Tree","tree_depth",4
+"Random_Forest","mtry",7
+"Random_Forest","min_n",13
+"Gradient_Boosting","min_n",11
+"Gradient_Boosting","tree_depth",3
+"Gradient_Boosting","learn_rate",0.0483293023857175
+"MLP_Neural_Net","hidden_units",55
+"MLP_Neural_Net","penalty",0.1

@@ -1,0 +1,8 @@
+"Variable","chi_sq","p_value","cramers_v","significant"
+"BusinessTravel",24.18,5e-04,0.128,"Yes"
+"Department",10.8,0.0045,0.086,"Yes"
+"EducationField",16.02,0.0085,0.104,"Yes"
+"Gender",1.28,0.258,0.029,"No"
+"JobRole",86.19,5e-04,0.242,"Yes"
+"MaritalStatus",46.16,5e-04,0.177,"Yes"
+"OverTime",89.04,5e-04,0.246,"Yes"

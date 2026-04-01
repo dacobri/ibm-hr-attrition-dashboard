@@ -1,0 +1,8 @@
+"var1","var2","correlation","pair"
+"MonthlyIncome","JobLevel",0.950299913479854,"JobLevel — MonthlyIncome"
+"TotalWorkingYears","JobLevel",0.78220780453628,"JobLevel — TotalWorkingYears"
+"PerformanceRating","PercentSalaryHike",0.773549996401267,"PercentSalaryHike — PerformanceRating"
+"TotalWorkingYears","MonthlyIncome",0.772893246254355,"MonthlyIncome — TotalWorkingYears"
+"YearsWithCurrManager","YearsAtCompany",0.769212425100699,"YearsAtCompany — YearsWithCurrManager"
+"YearsInCurrentRole","YearsAtCompany",0.758753736613461,"YearsAtCompany — YearsInCurrentRole"
+"YearsWithCurrManager","YearsInCurrentRole",0.71436476163859,"YearsInCurrentRole — YearsWithCurrManager"

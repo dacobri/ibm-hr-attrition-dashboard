@@ -1,0 +1,7 @@
+"model","threshold",".metric",".estimate"
+"Gradient_Boosting",0.32,"accuracy",0.83710407239819
+"Gradient_Boosting",0.32,"sensitivity",0.569444444444444
+"Gradient_Boosting",0.32,"specificity",0.889189189189189
+"Gradient_Boosting",0.32,"precision",0.5
+"Gradient_Boosting",0.32,"f_meas",0.532467532467532
+"Gradient_Boosting",0.32,"roc_auc",0.781193693693695
