@@ -55,7 +55,7 @@ The threshold was lowered from the default 50% to 32% because the cost asymmetry
 
 ### Top Attrition Drivers
 
-The XGBoost model's variable importance (gain-based) identifies overtime, monthly income, job satisfaction, age, and total working years as the strongest predictors. These are operationalized in the dashboard's prediction tab, which maps each flagged risk factor to a specific HR action (e.g., overtime flagged → review workload distribution; below-market income → compensation review).
+The XGBoost model's variable importance (gain-based) identifies overtime status, stock option level, job involvement, job level, and years with current manager as the strongest predictors. These are operationalized in the dashboard's prediction tab, which maps each flagged risk factor to a specific HR action (e.g., overtime flagged → review workload distribution; low stock options → equity retention package; low job involvement → role enrichment review).
 
 ---
 
@@ -88,16 +88,13 @@ Final_Project_Group_13/
 
 ### Prerequisites
 
-R ≥ 4.2 and the following packages:
+R ≥ 4.2 and all project dependencies. Install them in one step:
 
 ```r
-install.packages(c(
-  "tidyverse", "tidymodels", "corrplot", "scales",         # EDA + ML
-  "themis", "vip", "probably", "xgboost", "brulee",        # ML-specific
-  "doParallel",                                             # Parallel CV
-  "shiny", "bslib", "plotly", "DT", "shinycssloaders"      # Dashboard
-))
+source("install_packages.R")
 ```
+
+This script installs every package used across the EDA, ML, and Shiny scripts.
 
 ### Step-by-step
 
