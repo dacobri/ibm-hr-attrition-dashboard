@@ -79,6 +79,8 @@ Final_Project_Group_13/
 ├── Final_project_EDA.R                           # Stage 1: Exploratory Data Analysis (~1,200 lines)
 ├── Final_project_ML.R                            # Stage 2: Model training & evaluation (~1,010 lines)
 ├── app.R                                         # Stage 3: Shiny dashboard (~1,720 lines)
+├── install_packages.R                            # One-step dependency installer
+├── .gitignore                                    # R-specific ignore rules
 └── README.md
 ```
 
