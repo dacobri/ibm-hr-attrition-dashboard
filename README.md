@@ -6,6 +6,7 @@ An end-to-end machine learning pipeline that predicts employee attrition using t
 **Group 13:** Brice Da Costa · Baran Erdogan · Mats Hoffmann · María Mora · Hiroaki Nakano
 
 🔗 **Live dashboard:** http://108.130.136.227:3838/ibm-hr-attrition-dashboard/  
+**Backup:** https://hr-attrition-group13.shinyapps.io/hr-attrition/  
 
 ---
 
