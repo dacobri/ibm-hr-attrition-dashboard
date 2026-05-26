@@ -2,9 +2,6 @@
 
 An end-to-end machine learning pipeline that predicts employee attrition using the IBM HR Analytics dataset, from exploratory analysis through model training to an interactive Shiny dashboard that lets HR professionals assess individual employee risk in real time.
 
-**Final project for Data Analytics with R** (Prof. Rubén Coca, ESADE MIBA 2026)
-**Group 13:** Brice Da Costa · Baran Erdogan · Mats Hoffmann · María Mora · Hiroaki Nakano
-
 🔗 **Live dashboard:** http://108.130.136.227:3838/ibm-hr-attrition-dashboard/  
 **Backup:** https://hr-attrition-group13.shinyapps.io/hr-attrition/  
 
@@ -173,6 +170,10 @@ This script installs every package used across the EDA, ML, and Shiny scripts.
 - **No fairness audit** — Model performance was not evaluated across demographic subgroups. A production deployment would require this.
 
 ---
+
+## Built by
+
+Brice Da Costa · Baran Erdogan · Mats Hoffmann · María Mora · Hiroaki Nakano
 
 ## License
 
